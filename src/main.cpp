@@ -6,7 +6,8 @@
 #include <array>
 #include <vector>
 #include <fstream>
-#include "renderer.hpp"
+#include "chunk.hpp"
+#include "camera.hpp"
 #include "FastNoise.h"
 int main()
 {

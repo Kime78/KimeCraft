@@ -7,5 +7,5 @@ uniform mat4 view;
 void main()
 {
     Color = color;
-    gl_Position = vec4(position.x, position.y, position.z, 1.0) * proj * view;
+    gl_Position = proj * view * vec4(position.x, position.y, position.z, 1.0);
 }
