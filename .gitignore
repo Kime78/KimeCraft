@@ -1,0 +1,17 @@
+debug.log
+.vscode/c_cpp_properties.json
+.vscode/launch.json
+.vscode/settings.json
+.vscode/tasks.json
+bin/Dr. Memory (drag your app here).lnk
+bin/KimeCraft.exe
+bin/sfml-audio-2.dll
+bin/sfml-audio-d-2.dll
+bin/sfml-graphics-2.dll
+bin/sfml-graphics-d-2.dll
+bin/sfml-network-2.dll
+bin/sfml-network-d-2.dll
+bin/sfml-system-2.dll
+bin/sfml-system-d-2.dll
+bin/sfml-window-2.dll
+bin/sfml-window-d-2.dll
