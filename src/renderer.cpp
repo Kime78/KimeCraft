@@ -90,6 +90,7 @@ void Chunk::bind_mesh()
         //std::cout << "EXTRA BAD";
         throw std::runtime_error("Glad is not loading");
     }
+ 
     //glEnable(GL_CULL_FACE);
     //glCullFace(GL_BACK);
     GLuint vao;
