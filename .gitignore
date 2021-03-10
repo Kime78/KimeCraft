@@ -15,3 +15,7 @@ bin/sfml-system-2.dll
 bin/sfml-system-d-2.dll
 bin/sfml-window-2.dll
 bin/sfml-window-d-2.dll
+src/glad.c
+src/khrplatform.h
+src/glad.h
+build/KimeCraft
